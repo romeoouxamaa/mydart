@@ -28,9 +28,9 @@ void main() {
 
   int num5 = 60;
   if (num5 % 12 == 0 || num5 % 15 == 0) {
-    print("even");
+    print("Even");
   } else {
-    print("odd");
+    print("Odd");
   }
 
   int a = 34;
